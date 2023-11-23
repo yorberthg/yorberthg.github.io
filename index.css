@@ -1,0 +1,54 @@
+body {
+    margin: 100px;
+    padding: 20px;
+    background: url(imagens/WhatsApp\ Image\ 2023-11-22\ at\ 9.48.29\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#txt{
+    border-radius: 0%;
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+    font-family: Ephesis, sans-serif ;
+
+}
+.principio {
+    font-family: Cormorant, sans-serif;
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.imagen{
+    margin-right: 100px;
+}
+img{
+    object-fit: cover;
+    border-radius: 70%;
+    height: 300px;
+}
+.nombres{
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+}
+.titulo{
+text-align: center;
+font-family: Ephesis, sans-serif ;
+}
+h1,h2{
+    font-family: Cormorant, sans-serif;
+}
