@@ -8,13 +8,30 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: Cormorant, sans-serif;
 }
 
 #txt{
     border-radius: 0%;
     float: right;
 }
+#cuento {
+    border-radius: 0%;
+    margin-left: 300px;
 
+}
+#pequeño {
+    border-radius: 0%;
+    margin-left: 300px;
+    width: 500px;
+    height: 400px;
+}
+#largo{
+    border-radius: 0%;
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -47,7 +64,7 @@ img{
 }
 .titulo{
 text-align: center;
-font-family: Ephesis, sans-serif ;
+font-family: Cormorant, sans-serif;
 }
 h1,h2{
     font-family: Cormorant, sans-serif;
