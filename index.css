@@ -12,25 +12,29 @@ body {
 }
 
 #txt{
-    border-radius: 0%;
+    border-radius: 10%;
     float: right;
 }
 #cuento {
-    border-radius: 0%;
-    margin-left: 300px;
+    border-radius: 10%;
+    margin-left: 150px;
 
 }
+#perro {
+    border-radius: 10%;
+    margin-left: 80px;
+}
 #pequeño {
-    border-radius: 0%;
-    margin-left: 300px;
+    border-radius: 10%;
+    margin-left: 150px;
     width: 500px;
     height: 400px;
 }
 #largo{
-    border-radius: 0%;
+    border-radius: 10%;
     width: 500px;
     height: 400px;
-    margin-left: 50px;
+
 }
 ul {
     list-style-type: none;
